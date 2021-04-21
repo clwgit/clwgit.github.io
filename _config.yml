@@ -6,4 +6,6 @@ show_excerpts: true
 theme: minima
 minima:
   date_format: "%Y-%d-%m"
-  
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
