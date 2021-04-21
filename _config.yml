@@ -1,1 +1,10 @@
+title: 首页
+author:
+  name: t
+  email: l143983793@163.com
+description: >
+show_excerpts: true
 theme: minima
+minima:
+  date_format: "%Y-%d-%m"
+  
