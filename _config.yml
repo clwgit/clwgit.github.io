@@ -3,10 +3,11 @@ author:
   name: t
   email: l143983793@163.com
 description: 描述
-show_excerpts: true
+show_excerpts: false
 theme: minima
 minima:
   date_format: "%Y-%d-%m"
+  social_links: github:  clwgit
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
